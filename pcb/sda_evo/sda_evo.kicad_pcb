@@ -21970,7 +21970,7 @@
 			)
 		)
 		(property "Footprint" "sda-parts:SMDXT224"
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6e73a21e-ff5a-4295-a891-4854c32e1fa4")
@@ -21982,7 +21982,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1b0cf548-6c5d-47ed-8353-352292f65552")
@@ -21994,7 +21994,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6d5a83ae-c122-4d1f-8e21-0b503e4a3441")
@@ -45844,14 +45844,6 @@
 		(layer "F.Cu")
 		(net 20)
 		(uuid "b8a0cf88-e953-40e5-8887-c234f7a1154d")
-	)
-	(segment
-		(start 63 53.8)
-		(end 62.7 54.1)
-		(width 0.25)
-		(layer "F.Cu")
-		(net 20)
-		(uuid "bd5455c9-281d-4b97-aa75-d2810744e579")
 	)
 	(via
 		(at 62.7 54.1)

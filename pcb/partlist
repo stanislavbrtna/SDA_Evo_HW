@@ -160,10 +160,74 @@ https://www.tme.eu/cz/details/c1f-2/pojistky-smd-1206-rychle/bel-fuse/0685f2000-
 
 misc:
 vibrační jednotka:
-https://www.tme.eu/cz/details/pololu-1638/dc-motory/pololu/
+https://www.tme.eu/cz/details/df-fit0774/dc-motory/dfrobot/fit0774/  - malej, levnej
+https://www.tme.eu/cz/details/pololu-1638/dc-motory/pololu/          - drahej
+https://cz.mouser.com/ProductDetail/PUI-Audio/HD-EMC0903-LW27?qs=%252BHhoWzUJg4KyO2z222%2Fehw%3D%3D - 
 
-cap
-https://www.tme.eu/cz/details/grm1885c1h621ja01d/kondenzatory-mlcc-smd/murata/
+cap:
+https://www.tme.eu/cz/details/08051a681jat2a/kondenzatory-mlcc-smd/kyocera-avx/
+
+Torx:
+https://www.tme.eu/cz/details/b2.2x8_bn2041/vruty/bossard/3757646/
 
 new spkr trans:
 https://www.tme.eu/cz/details/ss8050-l-yan/tranzistory-npn-smd/yangjie-technology/ss8050-l/
+
+pinzeta s karbonovým koncem
+https://www.tme.eu/cz/details/sa.tl2acfr-sa/pinzety-univerzalni/lindstrom/tl-2acfr-sa/
+
+L1 náhrada:
+https://www.tme.eu/cz/details/djnr5020-4r7-s/tlumivky/ferrocore/
+
+TODO:
+-> speaker power ic
+   https://www.tme.eu/cz/details/lm4861mx_nopb/integrovane-obvody-rtv-audio/texas-instruments/
+-> prog female conn
+   https://www.tme.eu/cz/details/ds1065-01-1x6s8bv/konektory-hrebinky/connfly/ds1065-01-1-6s8bv/
+-> photoresistor
+   https://www.tme.eu/cz/details/pgm5537/fotorezistory/token/
+   
+kapton tape 35mm
+pájecí pasta
+
+-> pcb: rev detect piny!
+
+Fuu: CPU
+https://cz.mouser.com/ProductDetail/STMicroelectronics/STM32H743ZIT6?qs=FNcb6ahWXRyuf15GdgTu%252Bw%3D%3D
+
+Do budoucna:
+CL21A476MQYNNNE - 47uF 10V mlcc cap, mám jen na 2x dev (CL21A476MQYNNNG - same, 6.3V)
+lmr62014XMF - mám jen 1ks - koupena náhrada
+
+============== objednáno ===============================================================================
+Koupit:
+-> usb-c conn
+-> female internal extension
+  https://www.tme.eu/cz/details/ds1065-05-2x8s8bs/konektory-hrebinky/connfly/ds1065-05-2-8s8bsxb/
+
+caps: 10x
+https://www.tme.eu/cz/details/t491d476m016at/tantalove-kondenzatory-smd/kemet/
+
+dio 10x
+https://www.tme.eu/cz/details/1n5819hw-7-f/diody-schottky-smd/diodes-incorporated/
+
+ubc 10? podle toho, jestli rozjedu napájení lenovo nabíječkou
+https://www.tme.eu/cz/details/ubc-ra-tf/konektory-usb-a-ieee1394/jst/ubc-ra-tf-hf/
+
+25x ?
+https://www.tme.eu/cz/details/usblc6-2sc6/ochranne-diody-site/stmicroelectronics/
+
+FT230XS - momentálně unobtainium, budou na jaře... asi nezbejvá než kanibalizovat...
+-> použít usb port přímo na mcu
+
+čistič kontaktů:
+https://www.tme.eu/cz/details/60_200/cistici-a-konzervacni-pripravky/kontakt-chemie/70009-008/
+
+10x
+https://www.tme.eu/cz/details/ap22802aw5-7/power-switches-integrovane-obvody/diodes-incorporated/
+
+0.97N force... aktuální talčítka jsou trochu moc tvrdý na můj vkus
+https://www.tme.eu/cz/details/b3fs-1000/mikrospinace-tact/omron-electronic-components/
+
+5V předělat na: 2.5V namísto 2.7... ale zas jen 1A, ale stejnak jsem teď limitovanej dio co dá jen 500mA + propočítat s 2A pojistkou na baterii....
+https://www.tme.eu/cz/details/mic2288yd5-tr/stabilizator-napeti-obvody-dc-dc/microchip-technology/

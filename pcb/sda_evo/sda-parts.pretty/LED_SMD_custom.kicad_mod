@@ -1,0 +1,123 @@
+(footprint "LED_SMD_custom"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
+	(tags "LED Round FlatTop diameter 3.0mm 2 pins")
+	(property "Reference" "D3"
+		(at 3.66 0.3 180)
+		(layer "F.SilkS")
+		(uuid "a6cc67c6-99ff-44d4-9ba0-267649acb5d7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "CHRG_LED"
+		(at 0.23 0.8 180)
+		(layer "F.Fab")
+		(uuid "6c61ba2b-9c26-4171-8761-ac1462528392")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.1)
+				(bold yes)
+			)
+		)
+	)
+	(property "Datasheet" "~"
+		(at 0 0 180)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "9451d09f-849c-404b-b93a-94e0cc525361")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 180)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "96c6699d-b8af-4ce5-b5c3-542f83928a19")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -2.19 -3)
+		(end -2.19 2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "240cc8ec-fcf7-49f3-9d9a-249e4017bd2b")
+	)
+	(fp_line
+		(start -2.19 2)
+		(end 2.66 2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0f649145-bc60-4c3a-8c11-b9f86bff8f03")
+	)
+	(fp_line
+		(start 2.66 -3)
+		(end -2.19 -3)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1ab263e1-366d-45c7-800b-444d09843c2f")
+	)
+	(fp_line
+		(start 2.66 2)
+		(end 2.66 -3)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f9e1a1ac-7df5-4594-b2d9-1d8c43f21efc")
+	)
+	(pad "1" smd rect
+		(at -1.04 -0.4)
+		(size 1.8 4.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "419cf8ec-e0a5-48f5-b986-1ad50ca72863")
+	)
+	(pad "2" smd roundrect
+		(at 1.5 -0.4)
+		(size 1.8 4.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.1388888889)
+		(uuid "7731d5bf-9a49-469f-8563-7c75ccd72eae")
+	)
+	(embedded_fonts no)
+	(model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm_FlatTop.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

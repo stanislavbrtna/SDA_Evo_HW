@@ -1,4 +1,4 @@
-27364817745189357
+27431898663605644
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -107946,6 +107946,13 @@ Hole 1,6mm
 0
 1
 1
+sda-parts
+LED_SMD_custom
+LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf
+LED Round FlatTop diameter 3.0mm 2 pins
+0
+2
+2
 sda-parts
 SD-Connector
 

@@ -220,14 +220,44 @@ https://www.tme.eu/cz/details/usblc6-2sc6/ochranne-diody-site/stmicroelectronics
 FT230XS - momentálně unobtainium, budou na jaře... asi nezbejvá než kanibalizovat...
 -> použít usb port přímo na mcu
 
-čistič kontaktů:
-https://www.tme.eu/cz/details/60_200/cistici-a-konzervacni-pripravky/kontakt-chemie/70009-008/
-
 10x
 https://www.tme.eu/cz/details/ap22802aw5-7/power-switches-integrovane-obvody/diodes-incorporated/
 
+25x
 0.97N force... aktuální talčítka jsou trochu moc tvrdý na můj vkus
 https://www.tme.eu/cz/details/b3fs-1000/mikrospinace-tact/omron-electronic-components/
 
 5V předělat na: 2.5V namísto 2.7... ale zas jen 1A, ale stejnak jsem teď limitovanej dio co dá jen 500mA + propočítat s 2A pojistkou na baterii....
 https://www.tme.eu/cz/details/mic2288yd5-tr/stabilizator-napeti-obvody-dc-dc/microchip-technology/
+
+Mouser:
+Replacement for jack from tme:
+https://cz.mouser.com/ProductDetail/Same-Sky/SJ-43516-SMT-TR-PI?qs=WyjlAZoYn51wx5IkdF%252BeJw%3D%3D
+https://cz.mouser.com/ProductDetail/Texas-Instruments/PCM5102APWR?qs=E2%2FxqS9xjzrfECkwEYoiyg%3D%3D
+https://cz.mouser.com/ProductDetail/Diodes-Incorporated/S1AB-13-F?qs=rsz8n9DZaJKkxz2CBFNDKw%3D%3D
+https://cz.mouser.com/ProductDetail/Nexperia/BZT52-C3V3X?qs=%252BEew9%252B0nqrBZcJfqCzXWFA%3D%3D
+https://cz.mouser.com/ProductDetail/YAGEO/RP0805FRE0712KL?qs=sGAEpiMZZMvdGkrng054t2cqbZCzJY7N%2FJuXUn%2F5bI193mg0QC76Ew%3D%3D
+
+https://www.tme.eu/cz/details/rca08051k20fkea/rezistory-smd/vishay/
+https://www.tme.eu/cz/details/bzt52-c3v3x/zenerovy-diody-smd/nexperia/
+https://www.tme.eu/cz/details/s1abf-dc/univerzalni-diody-smd/dc-components/s1abf/
+
+========= objednáno TME ===============================================================================
+
+Chybí:
+
+spkr2: 1ks na test, nikde není datasheet
+https://www.tme.eu/cz/details/ld-sps2412-01r/reproduktory/loudity/sps2412-01r/
+
+čistič kontaktů:
+https://www.tme.eu/cz/details/60_200/cistici-a-konzervacni-pripravky/kontakt-chemie/70009-008/
+
+internal conn female: (možá i male najít)
+https://www.tme.eu/cz/details/ds1065-05-2x8s8bs/konektory-hrebinky/connfly/ds1065-05-2-8s8bsxb/
+https://www.tme.eu/cz/details/zl322-2x8p/konektory-hrebinky/connfly/ds1031-08-2-8p8bs41xt-3a/
+
+osc 16mhz
+https://www.tme.eu/cz/details/16.00m-smdxt224/resonators-and-generators/yic/
+
+hřebínek L
+https://www.tme.eu/cz/details/zl211-20kg-s/konektory-hrebinky/connfly/ds1022-1-20ruf1-1/

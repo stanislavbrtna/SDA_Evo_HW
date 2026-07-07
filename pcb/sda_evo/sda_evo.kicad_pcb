@@ -110,7 +110,7 @@
 		(tenting front back)
 		(aux_axis_origin 58.5 49)
 		(pcbplotparams
-			(layerselection 0x00000000_00000000_55555555_575555ff)
+			(layerselection 0x00000000_00000000_5555555f_575555ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
 			(disableapertmacros yes)
 			(usegerberextensions no)
@@ -5719,7 +5719,7 @@
 			(uuid "6da45d19-f5ca-4774-b5d4-b3e44a5fe744")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -2.15 0)
+			(at 3.7 0.1 0)
 			(layer "F.Fab")
 			(uuid "afb7dc63-24e0-4757-835e-6ff64a777803")
 			(effects
@@ -7490,7 +7490,7 @@
 			(uuid "c63f3f70-4d0a-439b-a143-06d01ad81258")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -2.15 0)
+			(at 3.6 -0.2 0)
 			(layer "F.Fab")
 			(uuid "5eb1bf7c-2f4c-4a4a-a197-c257c5cd1f2d")
 			(effects
@@ -11005,7 +11005,7 @@
 			)
 		)
 		(property "Value" "CHRG_LED"
-			(at 1.27 0 0)
+			(at 0.25 0.25 0)
 			(layer "B.Fab")
 			(uuid "883f90c8-7e9a-4d7b-a6cf-7e96fdb61865")
 			(effects
@@ -12587,7 +12587,7 @@
 			)
 		)
 		(property "Value" "USBLC6"
-			(at 0 -2.9 270)
+			(at -3.05 1.25 0)
 			(layer "B.Fab")
 			(uuid "ef04789d-43f3-43c6-a62e-456897afdec1")
 			(effects
@@ -29728,7 +29728,7 @@
 			)
 		)
 		(property "Value" "USBLC6"
-			(at 0 -2.9 270)
+			(at -2.1 0.05 0)
 			(layer "B.Fab")
 			(uuid "c0c623f0-f065-4946-9145-b2896ccbf862")
 			(effects
@@ -33940,7 +33940,7 @@
 			)
 		)
 		(property "Value" "USBLC6"
-			(at 0 -2.9 270)
+			(at -3.1 -0.85 0)
 			(layer "B.Fab")
 			(uuid "5bffc45a-3eac-4b85-ae31-26983978935f")
 			(effects

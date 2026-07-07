@@ -28245,7 +28245,7 @@
 		(fields_autoplaced yes)
 		(uuid "0bbfec69-88be-499a-9dea-a9fcc0eb6724")
 		(property "Reference" "R1"
-			(at 32.385 45.7199 0)
+			(at 31.75 45.7199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28254,7 +28254,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 32.385 48.2599 0)
+			(at 31.75 48.2599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40699,7 +40699,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "10k"
 			(at 492.76 327.66 0)
 			(effects
 				(font
@@ -46069,7 +46069,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "10k"
 			(at 483.87 241.2999 0)
 			(effects
 				(font

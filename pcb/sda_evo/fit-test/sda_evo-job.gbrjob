@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "8.0.9-8.0.9-0~ubuntu22.04.1"
+      "Version": "9.0.9-9.0.9~ubuntu24.04.1"
     },
-    "CreationDate": "2025-12-06T12:28:08+01:00"
+    "CreationDate": "2026-06-29T22:20:22+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -85,6 +85,16 @@
     {
       "Path": "sda_evo-Edge_Cuts.gbr",
       "FileFunction": "Profile",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "sda_evo-F_Fab.gbr",
+      "FileFunction": "AssemblyDrawing,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "sda_evo-B_Fab.gbr",
+      "FileFunction": "AssemblyDrawing,Bot",
       "FilePolarity": "Positive"
     }
   ],

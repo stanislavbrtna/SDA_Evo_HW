@@ -1,0 +1,45 @@
+[Driver support][OS support][Tested]
+
+Misc:
+[*][x][*] Reset, Prog
+[*][x][ ] Vref
+[*][ ][*] Aux Switch
+[ ][ ][ ] Ambient light sensor
+[*][*][*] Status LED
+[*][*][*] Vbus sense
+[*][*][*] Batt voltage
+[*][*][*] Batt charging
+[*][*][*] Buttons
+[ ][ ][F] SW shutdown - needs redesign
+[*][x][x] Power rails
+[ ][*][ ] SD Card - mount fails
+[ ][?][ ] 240Mhz - 480Mhz freq scaling
+
+Display:
+[*][*][*] 16bit bus
+[*][*][*] Touch
+[ ][*][ ] Backlight - clean pwm code
+
+Audio:
+[*][*][*] Speaker
+[*][x][*] Speaker amp shdn
+[ ][ ][ ] PCM DAC
+[ ][ ][ ] Jack sense
+
+USB conn:
+[*][*][F] Data bus
+[*][*][ ] Uart
+[ ][ ][*] Power delivery - only on dumb chargers
+
+Internal expansion:
+[*][*][*] UART
+[ ][*][ ] GPIO
+[ ][*][ ] ADC
+
+External expansion:
+[ ][*][ ] UART
+[ ][*][ ] GPIO
+[ ][*][ ] ADC?
++ Docs
+
+
